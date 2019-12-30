@@ -1,0 +1,15 @@
+fx=open("fp.txt","w")
+fx.write("Ciao")
+f1="\nQuesta è una prova.\n"
+fx.write(f1)
+fx.close()
+fx=open("fp.txt","a")
+fx.write("\nQuesta è un'aggiunta")
+fx.close()
+fx=open("fp.txt","r")
+fdoc=fx.read()
+fx.close
+print (fdoc)
+fq=open("prova interattiva n.9.py","r")
+fq1=fq.read()
+print(fq1)

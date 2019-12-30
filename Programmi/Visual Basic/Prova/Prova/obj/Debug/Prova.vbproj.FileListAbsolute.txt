@@ -1,0 +1,12 @@
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\bin\Debug\Prova.xml
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\obj\Debug\Prova.vbprojAssemblyReference.cache
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\obj\Debug\Prova.Resources.resources
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\obj\Debug\Prova.vbproj.GenerateResource.cache
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\obj\Debug\Prova.vbproj.CoreCompileInputs.cache
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\obj\Debug\Prova.xml
+C:\Users\Ciro\Documents\F.R.D.B\Programmi\Visual Basic\Prova\Prova\obj\Debug\Prova.pdb

@@ -1,0 +1,7 @@
+fl=("quarantacinque","81","Alberto Sordi",81)
+print(fl.count("95"))
+print(fl.count("81"))
+print(fl.count(81))
+print(fl[1:3])
+print(fl)
+fl.insert (1,"ciao")
